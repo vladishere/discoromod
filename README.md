@@ -1,2 +1,2 @@
 # discoromod
-Discord module for eazy start bot-application 
+Discord module for easy start bot-application 
